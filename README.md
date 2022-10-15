@@ -18,7 +18,9 @@
 
 <h2 align="center">Stats :chart_with_upwards_trend:</h2>
 
-[github stats](https://github-readme-stats.vercel.app/api?username=jrcryer&show_icons=true&count_private=true&hide_title=true)
+<p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=jrcryer&show_icons=true&count_private=true&hide_title=true"/>
+</p>
  
 <!--
 **jrcryer/jrcryer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
