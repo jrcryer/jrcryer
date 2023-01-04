@@ -1,6 +1,6 @@
 <h1 align="center">Intro 🚀</h1>
 
-<p align="center">A Principal Cloud Native Engineer with over 10+ years experience working with a variety of organistions including the <br/> <a href="https://www.bbc.co.uk">BBC</a>, <a href="https://www.investec.com/en_gb/wealth.html">Investec</a> and <a href="https://www.royalnavy.mod.uk/">Royal Navy</a>. Currently at <a href="https://www.sophos.com/">Sophos</a>, working on their latest consumer Cyber Security products backed by their Hybrid Enterprise Cloud offering.</p>
+<p align="center">A Principal Cloud Native Engineer with over 10+ years experience working with a variety of organistions including the <br/> <a href="https://www.bbc.co.uk/weather">BBC</a>, <a href="https://www.investec.com/en_gb/wealth.html">Investec</a> and <a href="https://www.royalnavy.mod.uk/">Royal Navy</a>. Currently at <a href="https://www.sophos.com/">Sophos</a>, working on their latest consumer Cyber Security products backed by their Hybrid Enterprise Cloud offering.</p>
 
 <h2 align="center">Skills :wrench:</h2>
 <p align="center">
